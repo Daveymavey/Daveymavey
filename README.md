@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-Finnan
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python, R, and SQL
+- 🌱 Currently studying data analtics, and machine learning with Python
 - 📫 Contact Email: mostreate@gmail.com
 
 <!---
